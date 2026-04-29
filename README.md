@@ -53,25 +53,10 @@ I redesigned the entire workflow end-to-end — from student submission to admin
 
 ---
 
-## 📸 Screenshots
-
-### Student Form — Personal Details
-> Student ID triggers auto-population of name, email, course, and address
-
-![Student Form - Personal Details]([https://github.com/NidhiChhabria/Railway_Concession_Automation/blob/main/student_form_personal.png%20.png](https://github.com/NidhiChhabria/Railway_Concession_Automation/blob/main/student_form_personal.png%20.png))
-
-### Student Form — Railway Details & Document Upload
-> Students select period, class, route, and upload verification documents
-
-![Student Form - Railway Details]([screenshots/student_form_railway.png](https://github.com/NidhiChhabria/Railway_Concession_Automation/blob/main/student_form_railway.png))
-
 ### Admin Dashboard — Live Application Tracking
 > Real-time view of all applications with one-click verify/reject actions
 > *(Student data blurred for privacy)*
 
-![Admin Dashboard]([screenshots/admin_dashboard_blurred.png](https://github.com/NidhiChhabria/Railway_Concession_Automation/blob/main/admin_dashboard_blurred.png))
-
----
 
 ## 📊 Impact
 
